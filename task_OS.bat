@@ -1,1 +1,1 @@
-mkdor buckup
+mkdor data
